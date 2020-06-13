@@ -1,6 +1,12 @@
 # ProcesamientoLenguajeNatural-Dialogflow-MariosPizza
 Procesamiento de Lenguaje Natural con Dialogflow
 
+# Tecnologías utilizadas
+1. DialogFlow - https://dialogflow.com/
+2. Firebase   - https://firebase.google.com/?hl=es_419
+3. Vue.js     - https://vuejs.org/v2/guide/
+4. Vuetify.js - https://vuetifyjs.com/en/getting-started/quick-start/
+
 # Versiones
 A continuación se muestra en la tabla el detalle de cada versión especificando el commit y su descripción de la funcionalidad incluida.
 
