@@ -1,3 +1,6 @@
+todo este codigo va en el fulfillment de dialogflow se necesita activar la opcion para poder usarlo
+--------------------------------------------------------------------------------------------------------
+
 // See https://github.com/dialogflow/dialogflow-fulfillment-nodejs
 // for Dialogflow fulfillment library docs, samples, and to report issues
 'use strict';
