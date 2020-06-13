@@ -13,6 +13,17 @@ Dialogflow es fácil de usar, intuitivo y tiene sentido. Su Procesamiento de Len
 ![image](https://user-images.githubusercontent.com/26776908/84577954-e6a03e00-ad7d-11ea-9aac-d9d25abe0016.png)
 ![image](https://user-images.githubusercontent.com/26776908/84577957-f0c23c80-ad7d-11ea-9ccd-45b0a2dfaad6.png)
 
+# Ejemplos de los resultados que se obtiene con el Asistente Virtual integrado en Facebook Messenger
+![image](https://user-images.githubusercontent.com/26776908/84577980-30892400-ad7e-11ea-8884-d48b9af09b9a.png)
+![image](https://user-images.githubusercontent.com/26776908/84578003-57475a80-ad7e-11ea-9e2c-a41122b5f6f6.png)
+![image](https://user-images.githubusercontent.com/26776908/84578011-675f3a00-ad7e-11ea-87a3-59266c9fd8e0.png)
+![image](https://user-images.githubusercontent.com/26776908/84578021-76de8300-ad7e-11ea-8750-70ec90c08ba7.png)
+![image](https://user-images.githubusercontent.com/26776908/84578025-7fcf5480-ad7e-11ea-8165-dcd5bd24eefd.png)
+
+# ejemplos de como quedarían guardodo en la Base de datos en Firebase
+![image](https://user-images.githubusercontent.com/26776908/84578047-b86f2e00-ad7e-11ea-9c12-b503c0198663.png)
+![image](https://user-images.githubusercontent.com/26776908/84578055-d472cf80-ad7e-11ea-9a35-94a3cb29aa3d.png)
+
 # Tecnologías utilizadas
 1. DialogFlow - https://dialogflow.com/
 2. Firebase   - https://firebase.google.com/?hl=es_419
