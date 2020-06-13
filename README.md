@@ -6,6 +6,13 @@ Dialogflow es un servicio de Google que se ejecuta en Google Cloud Platform, lo 
 
 Dialogflow es fácil de usar, intuitivo y tiene sentido. Su Procesamiento de Lenguaje Natural (PNL) es el mejor.
 
+# Ejemplos de los resultados que se obtiene con el Asistente Virtual en una página web
+![image](https://user-images.githubusercontent.com/26776908/84577912-8c06e200-ad7d-11ea-838e-776d8ff1e0f7.png)
+![image](https://user-images.githubusercontent.com/26776908/84577936-c1133480-ad7d-11ea-80df-d53fc1a1490a.png)
+![image](https://user-images.githubusercontent.com/26776908/84577945-d5573180-ad7d-11ea-8bdf-f0a5a3f37ca8.png)
+![image](https://user-images.githubusercontent.com/26776908/84577954-e6a03e00-ad7d-11ea-9aac-d9d25abe0016.png)
+![image](https://user-images.githubusercontent.com/26776908/84577957-f0c23c80-ad7d-11ea-9ccd-45b0a2dfaad6.png)
+
 # Tecnologías utilizadas
 1. DialogFlow - https://dialogflow.com/
 2. Firebase   - https://firebase.google.com/?hl=es_419
