@@ -1,0 +1,52 @@
+MariosPizza prueba gratis -------------------------------------------------
+
+<!-- The core Firebase JS SDK is always required and must be listed first -->
+<script src="https://www.gstatic.com/firebasejs/7.15.0/firebase-app.js"></script>
+
+<!-- TODO: Add SDKs for Firebase products that you want to use
+     https://firebase.google.com/docs/web/setup#available-libraries -->
+<script src="https://www.gstatic.com/firebasejs/7.15.0/firebase-analytics.js"></script>
+
+<script>
+  // Your web app's Firebase configuration
+  var firebaseConfig = {
+    apiKey: "AIzaSyD7X2LLQC0unvz7FQUTRyxBAcv5TENyR1g",
+    authDomain: "mariospizza-51f30.firebaseapp.com",
+    databaseURL: "https://mariospizza-51f30.firebaseio.com",
+    projectId: "mariospizza-51f30",
+    storageBucket: "mariospizza-51f30.appspot.com",
+    messagingSenderId: "94032107956",
+    appId: "1:94032107956:web:59c07f1764e5bb1bda7ae1",
+    measurementId: "G-F6TE83K28B"
+  };
+  // Initialize Firebase
+  firebase.initializeApp(firebaseConfig);
+  firebase.analytics();
+</script>
+
+
+Mario-sPizza con licencia ----------------------------------------------------------------------
+
+<!-- The core Firebase JS SDK is always required and must be listed first -->
+<script src="https://www.gstatic.com/firebasejs/7.15.0/firebase-app.js"></script>
+
+<!-- TODO: Add SDKs for Firebase products that you want to use
+     https://firebase.google.com/docs/web/setup#available-libraries -->
+<script src="https://www.gstatic.com/firebasejs/7.15.0/firebase-analytics.js"></script>
+
+<script>
+  // Your web app's Firebase configuration
+  var firebaseConfig = {
+    apiKey: "AIzaSyA0cOIHonbRpnGHEzr2KTXLOHaQ28ud1A8",
+    authDomain: "mario-spizza-dncdfh.firebaseapp.com",
+    databaseURL: "https://mario-spizza-dncdfh.firebaseio.com",
+    projectId: "mario-spizza-dncdfh",
+    storageBucket: "mario-spizza-dncdfh.appspot.com",
+    messagingSenderId: "258735015956",
+    appId: "1:258735015956:web:d3d7633fcb52a4766e3f01",
+    measurementId: "G-FJ9QTZB6FL"
+  };
+  // Initialize Firebase
+  firebase.initializeApp(firebaseConfig);
+  firebase.analytics();
+</script>
